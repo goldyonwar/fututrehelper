@@ -11,7 +11,6 @@ import android.support.v7.app.AppCompatActivity
 class Usage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Hello.hi(23)
-        CopyFromAsset.copy(assets,"dsf","")
+        copyFromAssets(assets,"gpx","gpx")
     }
 }

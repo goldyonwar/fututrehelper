@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MTK - http://www.toursprung.com" version="1.1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name><![CDATA[健走鐵馬悠遊行]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[健走鐵馬悠遊行]]></name>
+<trkseg><trkpt lat="25.0604870288171" lon="121.5505207707549"><ele></ele></trkpt><trkpt lat="25.05988281370028" lon="121.5519606265053"><ele></ele></trkpt><trkpt lat="25.0592971018066" lon="121.5520311172575"><ele></ele></trkpt><trkpt lat="25.05940796297182" lon="121.5535831264261"><ele></ele></trkpt><trkpt lat="25.05825842525307" lon="121.5543109309948"><ele></ele></trkpt><trkpt lat="25.05856659403378" lon="121.5582560291286"><ele></ele></trkpt><trkpt lat="25.06059173819102" lon="121.558109308242"><ele></ele></trkpt><trkpt lat="25.06073413545981" lon="121.5603208038267"><ele></ele></trkpt><trkpt lat="25.05972712510614" lon="121.5604312159773"><ele></ele></trkpt><trkpt lat="25.05992899960731" lon="121.563199469741"><ele></ele></trkpt><trkpt lat="25.06014247118168" lon="121.5634353124931"><ele></ele></trkpt><trkpt lat="25.06022152783075" lon="121.5641580022947"><ele></ele></trkpt><trkpt lat="25.0603356251095" lon="121.5646109292112"><ele></ele></trkpt><trkpt lat="25.06078343027561" lon="121.5654458372508"><ele></ele></trkpt><trkpt lat="25.0610773805773" lon="121.5654458669129"><ele></ele></trkpt><trkpt lat="25.06169965646305" lon="121.5663317662534"><ele></ele></trkpt><trkpt lat="25.06211270408069" lon="121.5668516981009"><ele></ele></trkpt><trkpt lat="25.06253944157454" lon="121.5671271446231"><ele></ele></trkpt><trkpt lat="25.06289627172428" lon="121.5672854938315"><ele></ele></trkpt><trkpt lat="25.06330785628195" lon="121.5673161528605"><ele></ele></trkpt><trkpt lat="25.06346759562036" lon="121.5668920046992"><ele></ele></trkpt><trkpt lat="25.06499248374084" lon="121.5666263089796"><ele></ele></trkpt></trkseg></trk></gpx>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MTK - http://www.toursprung.com" version="1.1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name><![CDATA[幸福農場健走步道]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[幸福農場健走步道]]></name>
+<trkseg>
+<trkpt lat="25.04602708244681" lon="121.5565324693403"><ele></ele></trkpt>
+<trkpt lat="25.04610204524872" lon="121.5571131411491"><ele></ele></trkpt>
+<trkpt lat="25.04661047969849" lon="121.5570542563032"><ele></ele></trkpt>
+<trkpt lat="25.04654023556868" lon="121.5564621124431"><ele></ele></trkpt>
+<trkpt lat="25.04603637835336" lon="121.5565310646015"><ele></ele></trkpt>
+</trkseg></trk></gpx>
