@@ -1,5 +1,7 @@
 package syriam.com.fututrehelper.copyfromasset
-
+/**************************************************************************************************
+ * Copyright 2017 Syriam Technologies International, Ltd.                                         *
+ **************************************************************************************************/
 import android.content.res.AssetManager
 import android.os.Environment
 import java.io.File

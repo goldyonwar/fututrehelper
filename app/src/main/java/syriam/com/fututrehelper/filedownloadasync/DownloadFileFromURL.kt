@@ -1,5 +1,7 @@
 package syriam.com.fututrehelper.filedownloadasync
-
+/**************************************************************************************************
+ * Copyright 2018 Syriam                                                                          *
+ **************************************************************************************************/
 import android.app.ProgressDialog
 import android.graphics.drawable.Drawable
 import android.os.AsyncTask
